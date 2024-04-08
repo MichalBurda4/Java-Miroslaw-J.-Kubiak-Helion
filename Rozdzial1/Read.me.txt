@@ -1,0 +1,33 @@
+zad1
+Napisz program, kótry oblicza pole prostokąta. Wartość boków a i b wprowadzamy z klawaitury.
+W programie należy przyjąć,ze zmienne a, b oraz pole są typu double (rzeczywistego).
+
+zad2
+Napisz program, który wyświetla na ekranie komputera wartość predefiniowanej stałej pi = 3,14...
+Należy przyjąć format wyświetlania tej stałej z dokładnością do pięciu miejsc po przeciunku.
+
+zad3
+Napisz program, który wyświetla na ekranie komputera pierwiastek kwadratowy z wartości predefniowanej pi = 3,14...
+Należy przyjąć format wyświetania pierwiastka kwadratowego ze stałej pi z dokładnością do dwóch miejsc po przecinku.
+
+zad4
+Napisz program, który oblicza objętość kuli o promieniu r. Wartość promienia wprowadzamz klawiatury.
+W programie nalz przyjąć, że zmienne:
+promień r i objętość są typ double (rzeczywistego).
+Dla tych zmiennych należy przyjąć format wyświetlania na ekranie z dokładnością do dwóch miejsc po przecinku.
+
+zad5
+Napisz program, który oblicza wynik dzielenia całkowitego bez reszty dwóch liczb całkowitych a = 37 i b = 11
+
+zad6
+Napisz program, któy oblicza resztę z dzielenia całkowitego dwóch liczb całkowitych a = 37 i b = 11.
+
+zad7
+Napisz program, który oblicza sumę, różnicę iliczyn i ilorz dla dwóc h liczb x i y wprowadzanych z klawiatury.
+W programie należy założyć, że zmienne x i y są typu float (rzeczywistego).
+Dla zmiennych x, y suma, różnica, iloczyn i iloraz należy przyjąć format ich wyświetlania na ekranie z dokładnośćią do dwóch miejsc po przecinku.
+
+zad8
+Napisz program, który oblicza pole prostokąta. Wartości boków a i b wprowadzamy z klawiatury. W programie nalzy przyjąć, że zmienne a, b oraz pole są doulble.
+Dodatkowo w program wbuduj obsługę sytuacji wyjątykowych.
+
